@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\c# projects\\SensoresPractica\\SensoresPractica.csproj": {}
+    "J:\\c# projects\\SensoresPractica\\SensoresEjercicios\\SensoresPractica.csproj": {}
   },
   "projects": {
-    "J:\\c# projects\\SensoresPractica\\SensoresPractica.csproj": {
+    "J:\\c# projects\\SensoresPractica\\SensoresEjercicios\\SensoresPractica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\c# projects\\SensoresPractica\\SensoresPractica.csproj",
+        "projectUniqueName": "J:\\c# projects\\SensoresPractica\\SensoresEjercicios\\SensoresPractica.csproj",
         "projectName": "SensoresPractica",
-        "projectPath": "J:\\c# projects\\SensoresPractica\\SensoresPractica.csproj",
+        "projectPath": "J:\\c# projects\\SensoresPractica\\SensoresEjercicios\\SensoresPractica.csproj",
         "packagesPath": "C:\\Users\\Vert\\.nuget\\packages\\",
-        "outputPath": "J:\\c# projects\\SensoresPractica\\obj\\",
+        "outputPath": "J:\\c# projects\\SensoresPractica\\SensoresEjercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
