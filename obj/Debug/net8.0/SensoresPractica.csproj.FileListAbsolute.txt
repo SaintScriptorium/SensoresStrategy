@@ -1,0 +1,14 @@
+J:\c# projects\SensoresPractica\bin\Debug\net8.0\SensoresPractica.exe
+J:\c# projects\SensoresPractica\bin\Debug\net8.0\SensoresPractica.deps.json
+J:\c# projects\SensoresPractica\bin\Debug\net8.0\SensoresPractica.runtimeconfig.json
+J:\c# projects\SensoresPractica\bin\Debug\net8.0\SensoresPractica.dll
+J:\c# projects\SensoresPractica\bin\Debug\net8.0\SensoresPractica.pdb
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.GeneratedMSBuildEditorConfig.editorconfig
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.AssemblyInfoInputs.cache
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.AssemblyInfo.cs
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.csproj.CoreCompileInputs.cache
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.dll
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\refint\SensoresPractica.dll
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.pdb
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\SensoresPractica.genruntimeconfig.cache
+J:\c# projects\SensoresPractica\obj\Debug\net8.0\ref\SensoresPractica.dll
